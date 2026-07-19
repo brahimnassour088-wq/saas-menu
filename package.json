@@ -1,0 +1,12 @@
+{
+  "name": "saas-menu",
+  "version": "1.0.0",
+  "description": "SaaS multi-commerçants : menus QR code modifiables par chaque commerçant",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
